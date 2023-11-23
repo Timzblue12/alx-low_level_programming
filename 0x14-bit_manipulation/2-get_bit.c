@@ -5,7 +5,7 @@
  * @n: gives the  number to search
  * @index: the index of the bit
  *
- * Return: bit value 
+ * Return: bit value
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
